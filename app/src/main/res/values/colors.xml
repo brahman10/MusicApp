@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#000000</color>
+
+    <!-- Background color for the baroque category -->
+
+    <!-- Background color for the classical category -->
+    <color name="classical_music">#3d3d3d</color>
+
+    <!-- Background color for the romantic category -->
+    <color name="romantic_music">#4d4d4d</color>
+
+    <!-- Background color for buttons -->
+
+    <!-- Text color for buttons -->
+    <color name="button_text">#F3E5F5</color>
+</resources>
